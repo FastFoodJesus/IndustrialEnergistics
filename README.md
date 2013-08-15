@@ -4,7 +4,7 @@ Welcome to the Industrial Energistics GitHub repo.
 Considering that I haven't told anyone but my wife about this project, I'm surprised you've found it. But anyway...
 
 Industrial Energistics is a WIP mod for Minecraft that looks to build upon IndustrialCraft 2 and Applied Energistics
-by adding new options for automation, cabling, and cross-integration. As soon as I get a chance I'll add some of my actual code here.
+by adding new options for automation, cabling, and cross-integration.
 
 Currently being built upon Minecraft 1.5.2, Forge 7.8.1.738, IC2 1.117.921, and AE rv12-b. Yes, I'm a Minecraft version behind, but my wife and I play on this version, and will continue to do so until certain other mods update.
 
