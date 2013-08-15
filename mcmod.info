@@ -1,0 +1,11 @@
+[{
+	"modid": "IndustrialEnergistics",
+	"name": "Industrial Energistics",
+	"description": "A crossover mod for IndustrialCraft and Applied Energistics",
+	"version": "0.1.1",
+	"mcversion": "1.5.2",
+	"url": "https://github.com/FastFoodJesus/IndustrialEnergistics",
+	"authors": [ "FastFoodJesus" ],
+	"credits": "Authored By FastFoodJesus",
+	"requiredMods": [ "Forge" ]
+}]
